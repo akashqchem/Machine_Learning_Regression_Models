@@ -62,5 +62,5 @@ Through these regression projects, I aim to develop a deeper understanding of:
 4. Comparing simple, kernel-based, and ensemble regression models for predictive analysis.
 
 
-All projects are implemented in Jupyter Notebooks (.ipynb) using datasets sourced from publicly available platforms such as Kaggle for self-learning and experimentation.
+All projects are implemented in Google Colab notebooks (.ipynb) using datasets sourced from publicly available platforms such as Kaggle, created purely for self-learning and experimentation.
 
