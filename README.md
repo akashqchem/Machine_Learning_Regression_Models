@@ -30,7 +30,7 @@ Included Projects:
 4. Support Vector Regression (SVR): Predicting the mean radius of breast cancer cell nuclei using morphological features.
 
 
-5. Decision Tree Regression: (Upcoming) Modeling complex non-linear relationships through hierarchical feature splits.
+5. Decision Tree Regression: predicting the quality of red wines based on their physicochemical features.
 
 
 6. Random Forest Regression: (Upcoming) Using ensemble methods for improved regression performance and prediction accuracy.
