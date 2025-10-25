@@ -33,7 +33,7 @@ Included Projects:
 5. Decision Tree Regression: predicting the quality of red wines based on their physicochemical features.
 
 
-6. Random Forest Regression: (Upcoming) Using ensemble methods for improved regression performance and prediction accuracy.
+6. Random Forest Regression: Implemented using the QM9 dataset to predict the HOMO-LUMO energy gap for 5000 molecules.
 
 
 
