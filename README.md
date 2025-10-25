@@ -30,7 +30,7 @@ Included Projects:
 4. Support Vector Regression (SVR): Predicting the mean radius of breast cancer cell nuclei using morphological features.
 
 
-5. Decision Tree Regression: predicting the quality of red wines based on their physicochemical features.
+5. Decision Tree Regression: Predicting the quality of red wines based on their physicochemical features.
 
 
 6. Random Forest Regression: Implemented using the QM9 dataset to predict the HOMO-LUMO energy gap for 5000 molecules.
