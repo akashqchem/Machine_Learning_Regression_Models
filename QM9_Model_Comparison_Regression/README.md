@@ -108,7 +108,7 @@ Key Learnings:
 
 
 
-1. Linear models can perform exceptionally well when the dataset has strong linear relationships between variables.
+1\. Linear models can perform exceptionally well when the dataset has strong linear relationships between variables.
 
 
 
