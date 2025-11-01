@@ -91,8 +91,7 @@ Random Forest Regression	0.9970497
 Summary of Results:
 
 
-
-1. Multiple Linear Regression achieved the highest R² score, showing an almost perfect fit for this dataset.
+1\. Multiple Linear Regression achieved the highest R² score, showing an almost perfect fit for this dataset.
 
 
 
