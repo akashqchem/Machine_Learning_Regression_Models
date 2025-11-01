@@ -72,18 +72,16 @@ All models were trained and evaluated using the same dataset split (80% training
 
 Model Performance (R² Scores):
 
-Model	                        R² Score
 
+Multiple Linear Regression:	  0.9999990
 
-Multiple Linear Regression	  0.9999990
+Polynomial Regression:	      0.9049225
 
-Polynomial Regression	        0.9049225
+Support Vector Regression:	  0.9913729
 
-Support Vector Regression	    0.9913729
+Decision Tree Regression:	    0.9902184
 
-Decision Tree Regression	    0.9902184
-
-Random Forest Regression	    0.9970497
+Random Forest Regression:	    0.9970497
 
 
 
